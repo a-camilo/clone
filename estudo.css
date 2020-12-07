@@ -91,6 +91,7 @@ header nav button{
 }
 /*Segundo conteúdo parte das imagem tv e celular antigos*/
 #container1{
+    width:100%;
     background-color: black;
     margin: 0;
     padding: 0px 0px;
